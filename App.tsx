@@ -1,4 +1,4 @@
-// ia:chatgpt genero el esqueleto inicial del componente con los imports basicos, nosotros lo modificamos casi todo para adaptarlo a la consigna
+// ia:chatgpt genero el codigo inicial del componente con los imports basicos, nosotros lo modificamos casi todo para adaptarlo a la consigna
 import React, { useState } from 'react';
 import {
   View,
